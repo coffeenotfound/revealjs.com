@@ -1,5 +1,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/be9ff8bf-e575-44b6-9db4-1087ff4942f8/deploy-status)](https://app.netlify.com/sites/revealjs/deploys)
 
+| <h2 align="left" margin="0">Fork Notice</h2><p>This fork implements the [`docs-auto-animate-id-restart`](https://github.com/coffeenotfound/revealjs.com/tree/docs-auto-animate-id-restart) branch</p> |
+| --- |
+
 # revealjs.com
 The official reveal.js website and docs. Contributions are welcome!
 
